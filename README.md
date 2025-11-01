@@ -10,5 +10,6 @@ Bu proje iki ayrı uygulamadan oluşur:
 
 
 
+<img width="1284" height="562" alt="Ekran görüntüsü 2025-11-01 193841" src="https://github.com/user-attachments/assets/62be7436-cbb2-4fc1-9e4b-e82fac0a445b" />
 
 
